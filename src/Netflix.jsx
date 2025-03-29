@@ -1,6 +1,7 @@
 import React from "react";
 import "./Netflix.css";
 function NetflixClone() {
+    
   return (
     <div className="netflix-container">
       {/* Header Section */}
